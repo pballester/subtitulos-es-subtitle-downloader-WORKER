@@ -1,0 +1,13 @@
+{
+    "name": "subtitulos-es-subtitle-downloader-worker",
+    "description": "Import to DB tvShows",
+    "version": "0.0.1",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "mongoose": "latest",
+        "request": "latest"
+    }
+}
