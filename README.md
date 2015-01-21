@@ -1,3 +1,3 @@
 # Subtitulos es subtitle downloader WORKER
 
-Import to DB tvShows
+Import tvShows to DB 
